@@ -1,0 +1,3 @@
+C:/Users/wikto/CLionProjects/hellworld/cmake-build-debug/CMakeFiles/hellworld.dir
+C:/Users/wikto/CLionProjects/hellworld/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wikto/CLionProjects/hellworld/cmake-build-debug/CMakeFiles/rebuild_cache.dir
